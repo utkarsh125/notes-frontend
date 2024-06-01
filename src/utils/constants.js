@@ -1,1 +1,1 @@
-export const BASE_URL = "http://localhost:8000" //change this later to vercel
+export const BASE_URL = "http://easilynoted.onrender.com" //change this later to vercel
